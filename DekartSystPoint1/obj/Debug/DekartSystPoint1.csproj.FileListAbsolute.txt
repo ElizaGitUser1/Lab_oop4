@@ -1,0 +1,10 @@
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.csproj.AssemblyReference.cache
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.DeckartSyst.resources
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.Properties.Resources.resources
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.csproj.GenerateResource.cache
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.csproj.CoreCompileInputs.cache
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\bin\Debug\DekartSystPoint1.exe.config
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\bin\Debug\DekartSystPoint1.exe
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\bin\Debug\DekartSystPoint1.pdb
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.exe
+C:\Git_proj\DekartSystPoint1\DekartSystPoint1\obj\Debug\DekartSystPoint1.pdb
